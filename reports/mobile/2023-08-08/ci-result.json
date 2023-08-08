@@ -1,0 +1,741 @@
+[
+  {
+    "path": "/",
+    "score": 0.88
+  },
+  {
+    "path": "/1ym/articles",
+    "score": 0.74
+  },
+  {
+    "path": "/1ym/images",
+    "score": 0.81
+  },
+  {
+    "path": "/1YM/kelly-mission-archive",
+    "score": 0.88
+  },
+  {
+    "path": "/1ym/key-messages",
+    "score": 0.81
+  },
+  {
+    "path": "/1YM/koch-mission-archive",
+    "score": 0.82
+  },
+  {
+    "path": "/1ym/research",
+    "score": 0.8
+  },
+  {
+    "path": "/1ym/videos",
+    "score": 0.83
+  },
+  {
+    "path": "/2013_highlights",
+    "score": 0.81
+  },
+  {
+    "path": "/2017-grc-internships-poster-presentations",
+    "score": 0.84
+  },
+  {
+    "path": "/2017astronauts/meet",
+    "score": 0.83
+  },
+  {
+    "path": "/2018/Wallops/feature/visions-2-provides-a-look-at-earth-s-escaping-atmosphere",
+    "score": 0.81
+  },
+  {
+    "path": "/50th/favpic/atlantisView.html",
+    "score": 0.81
+  },
+  {
+    "path": "/50th/favpic/christaMcauliffe.html",
+    "score": 0.82
+  },
+  {
+    "path": "/50th/favpic/missionControlRelax.html",
+    "score": 0.81
+  },
+  {
+    "path": "/50th/favpic/shannonLucid.html",
+    "score": 0.82
+  },
+  {
+    "path": "/50th/favpic/viking1.html",
+    "score": 0.81
+  },
+  {
+    "path": "/60",
+    "score": 0.88
+  },
+  {
+    "path": "/60moments",
+    "score": 0.89
+  },
+  {
+    "path": "/60resources",
+    "score": 0.88
+  },
+  {
+    "path": "/60years",
+    "score": 0.88
+  },
+  {
+    "path": "/8k-science",
+    "score": 0.82
+  },
+  {
+    "path": "/about/alex-macdonald-chief-economist-office-of-the-administrator",
+    "score": 0.84
+  },
+  {
+    "path": "/about/budget/PAR_Reports.html",
+    "score": 0.8
+  },
+  {
+    "path": "/about/exhibits/gallery-WSEtouchableMoon.html",
+    "score": 0.78
+  },
+  {
+    "path": "/about/highlights/CFRDC2.html",
+    "score": 0.82
+  },
+  {
+    "path": "/about/highlights/delgado_bio.html",
+    "score": 0.84
+  },
+  {
+    "path": "/about/highlights/gillen_bio.html",
+    "score": 0.84
+  },
+  {
+    "path": "/about/highlights/leadership_gallery_2.html",
+    "score": 0.82
+  },
+  {
+    "path": "/about/highlights/morhard_bio.html",
+    "score": 0.84
+  },
+  {
+    "path": "/about/loverro_bio.html",
+    "score": 0.84
+  },
+  {
+    "path": "/about/namis",
+    "score": 0.88
+  },
+  {
+    "path": "/about/research/",
+    "score": 0.83
+  },
+  {
+    "path": "/about/research/index.html",
+    "score": 0.83
+  },
+  {
+    "path": "/about/speakers/nasa-speakers-terms.html",
+    "score": 0.83
+  },
+  {
+    "path": "/about/whats_next.html",
+    "score": 0.83
+  },
+  {
+    "path": "/abscicon-social",
+    "score": 0.84
+  },
+  {
+    "path": "/accessibility/acronym-glossary",
+    "score": 0.86
+  },
+  {
+    "path": "/accessibility/resources-and-tools",
+    "score": 0.8
+  },
+  {
+    "path": "/accessibility/section-508-home",
+    "score": 0.84
+  },
+  {
+    "path": "/accessibility/section508/sec508_overview.html",
+    "score": 0.86
+  },
+  {
+    "path": "/ace",
+    "score": 0.84
+  },
+  {
+    "path": "/ace/videos",
+    "score": 0.86
+  },
+  {
+    "path": "/ada/events/johanna-lucht",
+    "score": 0.83
+  },
+  {
+    "path": "/addressing-global-challenges",
+    "score": 0.84
+  },
+  {
+    "path": "/advanced-composition-explorer/media-resources",
+    "score": 0
+  },
+  {
+    "path": "/advanced-composition-explorer/science",
+    "score": 0.86
+  },
+  {
+    "path": "/advanced-composition-explorer/spacecraft-and-instruments",
+    "score": 0.86
+  },
+  {
+    "path": "/aero/nasa-celebrates-air-and-space-airventure-2016",
+    "score": 0.79
+  },
+  {
+    "path": "/aero/nasa-contribution-digital-fly-by-wire.html",
+    "score": 0.82
+  },
+  {
+    "path": "/aero/nasa-drone-traffic-management-tests-take-off-in-reno",
+    "score": 0.86
+  },
+  {
+    "path": "/aero/nasa-partners-open-new-research-lab-at-charlotte-airport",
+    "score": 0.83
+  },
+  {
+    "path": "/aero/year-ender-2014.html",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresaerch/tech-excellence/2008/nasa-studies-mental-overload",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/aa-awards-2018",
+    "score": 0.79
+  },
+  {
+    "path": "/aeroresearch/aa-awards/2010-leadership-group-winners",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/aa-awards/2011-program-group-winners",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/aa-awards/2012-program-hm",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/aa-awards/2013-tech-group-winners",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/aa-awards/2019-tech-group-winners",
+    "score": 0.86
+  },
+  {
+    "path": "/aeroresearch/aavp/aetc/test-technology/pressure/gallery1",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/feature/nasa-precise-positioning-system-for-supersonic-science",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresearch/image-feature/nasa-air-traffic-management-tool-on-display",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/image-feature/nasa-drops-hundres-of-microphones-for-noise-research",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/image-feature/nasa-tests-new-air-traffic-management-tool-on-boeing-787",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/image-feature/unpacking-the-future-of-supersonic-air-travel",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/image-feature/x-59-cockpit-begins-to-look-like-a-cockpit",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/lbfd/nasa-x-59-assembly-continues-with-installation-of-supersonic-technologies",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/lbfd/up-close-view-of-nasas-x-59-engine-inlet",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/nari",
+    "score": 0.86
+  },
+  {
+    "path": "/aeroresearch/nasa-and-jaxa-to-work-together-on-testing-x-59-model",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/nasa-marks-continued-progress-on-x-59",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aatt/description",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aatt/technical-challenges",
+    "score": 0.85
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aatt/technical-highlights",
+    "score": 0.85
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/ac",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/ac/ac-publications",
+    "score": 0.85
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/ac/calendar-of-events",
+    "score": 0.84
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/ac/description",
+    "score": 0.85
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/ac/technical-challenges",
+    "score": 0.85
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/hypersonic/al/gallery1",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/hypersonic/al/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/hypersonic/al/gallery3",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/hypersonic/htt/gallery1",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/hypersonic/htt/gallery2",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/hypersonic/htt/gallery3",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/hypersonic/htt/gallery4",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/hypersonic/htt/gallery5",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/propulsion/psl/gallery1",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/propulsion/psl/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/propulsion/psl/gallery3",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/propulsion/psl/gallery4",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/propulsion/psl/gallery5",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/14x22/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/14x22/gallery4",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/14x22/gallery6",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/14x22/gallery7",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/14x22/gallery8",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/gallery1",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/gallery3",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/gallery4",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/icing/gallery1",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/icing/gallery3",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/subsonic/icing/gallery4",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/10x10/gallery1",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/10x10/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/10x10/gallery4",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/10x10/gallery6",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/10x10/gallery7",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/4-foot/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/4-foot/gallery3",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/4-foot/gallery5",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/4-foot/gallery7",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/4-foot/gallery8",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/8x6/gallery1",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/8x6/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/8x6/gallery3",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/8x6/gallery4",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/8x6/gallery5",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/9x7/gallery1",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/9x7/gallery2",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/9x7/gallery3",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/9x7/gallery4",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/supersonic/gallery",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/angle/gallery1",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/angle/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/angle/gallery3",
+    "score": 0.81
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/angle/gallery4",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/angle/gallery5",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/flow/gallery1",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/flow/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/flow/gallery3",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/force/gallery12",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/force/gallery2",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/force/gallery7",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/force/gallery8",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/force/gallery9",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/gallery10",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/gallery11",
+    "score": 0.82
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/pressure/gallery2",
+    "score": 0.83
+  },
+  {
+    "path": "/aeroresearch/programs/aavp/aetc/test-technology/pressure/gallery3",
+    "score": 0.81
+  },
+  {
+    "path": "/Consortium/Seminars",
+    "score": 0.81
+  },
+  {
+    "path": "/Directorates/heo/rpt/nawc-test-bay-2.html",
+    "score": 0.82
+  },
+  {
+    "path": "/Directorates/heo/rpt/nawc-test-bay-4.html",
+    "score": 0.82
+  },
+  {
+    "path": "/Directorates/heo/rpt/nawc-test-bay-6.html",
+    "score": 0.8
+  },
+  {
+    "path": "/Directorates/heo/Rpt/test-72.html",
+    "score": 0.84
+  },
+  {
+    "path": "/Directorates/heo/rpt/white-sands-test-facility.html",
+    "score": 0.86
+  },
+  {
+    "path": "/Directorates/heo/rpt/wstf-test-stand-328.html",
+    "score": 0.83
+  },
+  {
+    "path": "/ESDSuppliersMap"
+  },
+  {
+    "path": "/Expedition-42-43-Return-Research-Highlights",
+    "score": 0.81
+  },
+  {
+    "path": "/FOIA/laws-reports.html",
+    "score": 0.81
+  },
+  {
+    "path": "/FOIA/other-foia-reports.html",
+    "score": 0.85
+  },
+  {
+    "path": "/Glenn-EDC-summer2018solicitation",
+    "score": 0.82
+  },
+  {
+    "path": "/Glenn-EDC-winter2018solicitation",
+    "score": 0.82
+  },
+  {
+    "path": "/Glenn-OST-Fall2019Solicitation",
+    "score": 0.82
+  },
+  {
+    "path": "/Glenn-OST-Summer2019Solicitation",
+    "score": 0.81
+  },
+  {
+    "path": "/Glenn-STEM-Collaboration-Summer2020Solicitation",
+    "score": 0.79
+  },
+  {
+    "path": "/Glenn-STEM-Collaboration-Winter2020Solicitation",
+    "score": 0.84
+  },
+  {
+    "path": "/GRC_NOSL_EDC_Solicitation",
+    "score": 0.81
+  },
+  {
+    "path": "/LatestNews",
+    "score": 0.84
+  },
+  {
+    "path": "/OCO-2-delta-II-rocket-first-stage-assembly",
+    "score": 0.81
+  },
+  {
+    "path": "/Rosemary_Smith_Bio",
+    "score": 0.85
+  },
+  {
+    "path": "/Wallops/2017/feature/international-campaign-to-explore-auroral-cusp",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2017/feature/nasa-mission-to-study-atmospheric-disturbances-from-marshall-islands",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2017/feature/nasa-wallops-successful-launch-rocks-with-student-experiments",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2017/feature/undergraduate-students-bring-ideas-to-reality-with-rocket-launch-aug-12-from-nasa-wallops",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2017/feature/wallops-nasa-visitor-center-hosts-astronomy-night-at-kiptopeke-state-park-september-16",
+    "score": 0.83
+  },
+  {
+    "path": "/Wallops/2017/image-feature/student-payloads-take-to-the-skies-on-nasa-scientific-balloon",
+    "score": 0.82
+  },
+  {
+    "path": "/Wallops/2017/press-release/get-your-focus-on-at-the-nasa-visitor-center-may-11",
+    "score": 0.84
+  },
+  {
+    "path": "/Wallops/2017/press-release/nasa-visitor-center-summer-astronomy-series-at-assateague-island-national-seashore",
+    "score": 0.84
+  },
+  {
+    "path": "/Wallops/2017/press-release/nasa-wallops-radar-images-salisbury-tornado",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2017/press-release/total-solar-eclipse-of-2017-focus-of-july-20-program-at-wallops-visitor-center",
+    "score": 0.83
+  },
+  {
+    "path": "/Wallops/2017/press-release/total-solar-eclipse-of-2017-focus-of-june-29-program-at-wallops-visitor-center",
+    "score": 0.83
+  },
+  {
+    "path": "/Wallops/2018/feature/nasa-rocket-experiments-to-examine-lifecycle-of-stars",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2018/feature/nasa-seeks-participants-interested-in-learning-to-build-rocket-payloads",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2018/feature/save-the-eggs-at-nasa-visitor-center-march-17",
+    "score": 0.83
+  },
+  {
+    "path": "/Wallops/2018/feature/va-space-flight-academy-summer-space-camps-draw-record-numbers-of-students",
+    "score": 0.83
+  },
+  {
+    "path": "/Wallops/2018/image-feature/nasa-awards-distinguished-service-medal",
+    "score": 0.8
+  },
+  {
+    "path": "/Wallops/2018/press-release/engineering-program-for-homeschool-students-feb-7-at-nasa-visitor-center",
+    "score": 0.82
+  },
+  {
+    "path": "/Wallops/2018/press-release/nasa-wff-visitor-center-s-astronomy-and-night",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2018/press-release/steps-to-launching-wallops-rockets-focus-of-nasa-presentation-april-12-0",
+    "score": 0.83
+  },
+  {
+    "path": "/Wallops/2018/press-release/the-center-of-rocket-launch-operations-focus-of-nasa-presentation-march-8",
+    "score": 0.83
+  },
+  {
+    "path": "/Wallops/2018/press-release/the-life-cycle-of-a-sounding-rocket-focus-of-nasa-presentation-feb-22",
+    "score": 0.81
+  },
+  {
+    "path": "/Wallops/2019/image-feature/nasa-wrx-recovered",
+    "score": 0.8
+  }
+]
